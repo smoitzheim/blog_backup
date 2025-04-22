@@ -1,2 +1,2 @@
 # blog_backup
-private backup of smoitzheim.online
+automatic backup of smoitzheim.online
